@@ -34,6 +34,7 @@ dissertation_rfgh/
 ├── training_images/                    # Training dataset images
 ├── training_stats/                     # Logs and statistics from training runs
 └── environment.yml                     # Conda environment specification
+```
 
 This guarantees reproducibility and avoids inconsistencies from querying external APIs (e.g., Mapillary).
 
