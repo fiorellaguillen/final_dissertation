@@ -7,9 +7,9 @@ This repository relies on a specific Python environment and a set of pre-downloa
 
 ### Environment
 
-Create a new conda environment using the provided environment.yml file.
+Create a new conda environment using the provided environment_.yml file.
 
-conda env create -f environment.yml
+conda env create -f environment_.yml
 conda activate porosity-env
 
 
