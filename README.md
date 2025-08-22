@@ -1,4 +1,4 @@
-# final_dissertation
+# Final_dissertation
 
 
 ## Setup and Requirements
@@ -18,10 +18,11 @@ This ensures compatibility with all required libraries (PyTorch, segmentation mo
 ### Data
 
 All data required to run the notebooks has been uploaded to this OneDrive folder
-[OneDrive link](https://1drv.ms/f/c/4c6a6da74e365895/Elu1A2ls-PpFnJa4iQ8DLEABnl2jUM8h1VVbK8VY8Z4cbA?e=nJeeYw)
+[OneDrive link](https://1drv.ms/f/c/4c6a6da74e365895/Eqz4AqdmEwBGmbCQacSWJU0BoM4fBznq1S6KsvJ29zpQfw?e=mvMM8a)
 
-Please download the entire directory and place it under the same folder structure as referenced in the notebooks.
+Please download the entire directory and place it under the same folder structure as referenced in the notebooks.´
 
+```text
 dissertation_rfgh/
 │
 ├── base_data/                          # Base datasets provided for reproducibility
